@@ -1,1 +1,5 @@
 @import url("./settings/settings.css");
+
+/* Desktop size (index) */
+@import url("../css/index/desktop/desktop.css") only screen and (min-width: 1201px);
+/* end Desktop size (index) */

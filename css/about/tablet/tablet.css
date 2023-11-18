@@ -1,0 +1,8 @@
+@import url("./about-hero.css");
+@import url("./who.css");
+.wrapper {
+  max-width: 1600px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 60px;
+}
