@@ -1,0 +1,23 @@
+{
+  "name": "project-01-web-02-finsweet",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "sass": "node-sass ./scss/main.scss -o ./css/ -w",
+    "settings": "node-sass ./scss/settings/settings.scss -o ./css/settings/ -w",
+    "index-desktop": "node-sass ./scss/index/desktop/desktop.scss -o ./css/index/desktop/ -w",
+    "index-desktop-header-xl": "node-sass ./scss/index/desktop/header.scss -o ./css/index/desktop/ -w",
+    "index-desktop-hero-xl": "node-sass ./scss/index/desktop/hero.scss -o ./css/index/desktop/ -w"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "swiper": "^11.0.4"
+  }
+}
