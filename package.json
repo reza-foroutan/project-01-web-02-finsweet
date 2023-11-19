@@ -41,19 +41,7 @@
     "index-mobile-faq-xs": "node-sass ./scss/index/mobile/faq.scss -o ./css/index/mobile/ -w",
     "index-mobile-contact-xs": "node-sass ./scss/index/mobile/contact.scss -o ./css/index/mobile/ -w",
     "index-mobile-blog-xs": "node-sass ./scss/index/mobile/blog.scss -o ./css/index/mobile/ -w",
-    "index-mobile-footer-xs": "node-sass ./scss/index/mobile/footer.scss -o ./css/index/mobile/ -w",
-    "about-desktop": "node-sass ./scss/about/desktop/desktop.scss -o ./css/about/desktop/ -w",
-    "about-desktop-about-hero-xl": "node-sass ./scss/about/desktop/about-hero.scss -o ./css/about/desktop/ -w",
-    "about-desktop-who-xl": "node-sass ./scss/about/desktop/who.scss -o ./css/about/desktop/ -w",
-    "about-desktop-process-xl": "node-sass ./scss/about/desktop/process.scss -o ./css/about/desktop/ -w",
-    "about-desktop-mission-xl": "node-sass ./scss/about/desktop/mission.scss -o ./css/about/desktop/ -w",
-    "about-desktop-benefits-xl": "node-sass ./scss/about/desktop/benefits.scss -o ./css/about/desktop/ -w",
-    "about-desktop-team-xl": "node-sass ./scss/about/desktop/team.scss -o ./css/about/desktop/ -w",
-    "about-tablet": "node-sass ./scss/about/tablet/tablet.scss -o ./css/about/tablet/ -w",
-    "about-tablet-about-hero-md": "node-sass ./scss/about/tablet/about-hero.scss -o ./css/about/tablet/ -w",
-    "about-tablet-who-md": "node-sass ./scss/about/tablet/who.scss -o ./css/about/tablet/ -w",
-    "about-tablet-process-md": "node-sass ./scss/about/tablet/process.scss -o ./css/about/tablet/ -w",
-    "about-tablet-mission-md": "node-sass ./scss/about/tablet/mission.scss -o ./css/about/tablet/ -w"
+    "index-mobile-footer-xs": "node-sass ./scss/index/mobile/footer.scss -o ./css/index/mobile/ -w"
   },
   "devDependencies": {
     "vite": "^5.0.0"

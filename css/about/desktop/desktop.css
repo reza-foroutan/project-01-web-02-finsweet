@@ -1,9 +1,10 @@
-@import url("./about-hero.css");
-@import url("./who.css");
-@import url("./process.css");
-@import url("./mission.css");
-@import url("./benefits.css");
-@import url("./team.css");
+@import "./about-hero.css";
+@import "./who.css";
+@import "./process.css";
+@import "./mission.css";
+@import "./benefits.css";
+@import "./team.css";
+
 .wrapper {
   max-width: 1600px;
   height: 100%;
