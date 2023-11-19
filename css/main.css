@@ -34,7 +34,7 @@
 
 
 /* Tablet size (price) */
-@import url("./price/tablet/tablet.css") only screen and (min-width: 769px) and(max-width: 1200px);
+@import url("./price/tablet/tablet.css") only screen and (min-width: 769px) and (max-width: 1200px);
 /* End  Tablet size (price) */
 
 
